@@ -1,4 +1,5 @@
-#�Que es Linux?                                                                     
+## �Que es Linux?
+                                                                     
 Toda computadora se divide en dos partes:
 1. La parte física:                     
  - Mejor conocida como * hardware *.
@@ -8,7 +9,7 @@ Por default, la mayoría de las computadoras tienen un programa esspecial que ad
 Usualmente, suele ser MacOs, o Windows, en su mayoría, sin embargo, Linux resulta ser más versátil cuando se busca tener el control total de la maquina. 
 
 
-Ae estos programas administrativos se les conoce como ** sistema operativo **, o bien, ** SO ** para abreviar.
+A estos programas administrativos se les conoce como ** sistema operativo **, o bien, ** SO ** para abreviar.
 
 >💡¡Dato curioso!
 El sistema Linux operativo está inspirado en otro sistema operativo más antiguo llamado Unix [1]. El nombre "Linux" es una combinación del nombre de su creador, "Linus" y "Unix".
