@@ -1,5 +1,5 @@
-#Introducción a Linux.
+# Introducción a Linux.
 
-* Breve recopilación para iniciarse en Linux. *
+*Breve recopilación para iniciarse en Linux.*
 
-Recopilación para principiantes. :man_student:
+>Recopilación para principiantes. :man_student:
