@@ -1,5 +1,5 @@
 ## �Que es Linux?
- @Mom_Code :skull:
+ @MomCode :skull:
                                                                      
 Toda computadora se divide en dos partes:
 1. La parte física:                     
