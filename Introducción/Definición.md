@@ -13,16 +13,15 @@ Usualmente, suele ser MacOs, o Windows, en su mayoría, sin embargo, Linux resul
 
 A estos programas administrativos se les conoce como **sistema operativo**, o bien, **SO** para abreviar.
 
->💡¡Dato curioso!
+>:mag_right:¡Dato curioso!
 El sistema Linux operativo está inspirado en otro sistema operativo más antiguo llamado Unix [^1]. 
 El nombre "Linux" es una combinación del nombre de su creador, "Linus" y "Unix"[^2].
 
 
-
- #### Notas al pie
+[^nota]:
+ ##### Para memorizar :notebook:
  [^1]:
  Unix es el primer sistema operativo importante que facilitó la escritura y la administración de programas.
 
  [^2]:
  Fue creado en 1969 en los famosos [Bell Labs] (https://en.wikipedia.org/wiki/Bell_Labs).
-
